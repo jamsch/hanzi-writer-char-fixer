@@ -1,0 +1,17 @@
+{
+  "name": "hanzi-writer-char-fixer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "fix-cn-chars": "python ./fix_chars.py node_modules/hanzi-writer-data fixed-cn",
+    "fix-jp-chars": "python ./fix_chars.py node_modules/@jamsch/hanzi-writer-data-jp fixed-jp"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "hanzi-writer-data": "2.0.1",
+    "@jamsch/hanzi-writer-data-jp": "0.0.2"
+  }
+}

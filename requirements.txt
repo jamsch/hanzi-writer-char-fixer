@@ -1,0 +1,2 @@
+requests>=2.9.1
+svgelements==1.5.2
