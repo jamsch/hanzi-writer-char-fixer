@@ -5,8 +5,6 @@ import requests
 import argparse
 import sys
 
-
-# hanzi-writer-fixer https: // github.com/chanind/hanzi-writer-data
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('source')
@@ -167,6 +165,3 @@ def fix_char(data: str):
 
 if __name__ == '__main__':
     main()
-
-
-# fix_chars_from_github()
