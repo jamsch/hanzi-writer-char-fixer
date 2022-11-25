@@ -2,12 +2,12 @@
 # yarn lockfile v1
 
 
-"@jamsch/hanzi-writer-data-jp@^0.0.2":
-  version "0.0.2"
-  resolved "https://registry.yarnpkg.com/@jamsch/hanzi-writer-data-jp/-/hanzi-writer-data-jp-0.0.2.tgz#1aafeff3ab11555e842e99463c82353f2c463cc5"
-  integrity sha512-m1frpFg6VDJVLvoPpevbIQYvhdbdWdg+I3rmYNz++OeojpbMo1tf5g7XBq/D7nf6/9sNEK0zbJX6EUQds2JXXQ==
+"@jamsch/hanzi-writer-data-jp@0.0.3":
+  version "0.0.3"
+  resolved "https://registry.yarnpkg.com/@jamsch/hanzi-writer-data-jp/-/hanzi-writer-data-jp-0.0.3.tgz#7f3beb6a89fc0496789fa98f61f074c74f6a28fa"
+  integrity sha512-1eLL6Q6NqHzWboGLbmI0Rdb6+V+qY4NcLyKbbvnDvd6tifWp0nIZIt9grQN77x4SYOJaz87TWFqZxW0ZBsgArA==
 
-hanzi-writer-data@^2.0.1:
+hanzi-writer-data@2.0.1:
   version "2.0.1"
   resolved "https://registry.yarnpkg.com/hanzi-writer-data/-/hanzi-writer-data-2.0.1.tgz#09ce12eb1c47d86aeb33313e622f17ba5cbac1ad"
   integrity sha512-nbQwM+MaryGoq7pBMIZLCd3lFq03nXuJuwku1+6UbjL58uU+9OULVcMkoNvNuJSoIV7f1bbPRfD4D/LQa5S7qg==

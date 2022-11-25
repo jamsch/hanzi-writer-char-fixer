@@ -1,9 +1,9 @@
 import json
 import os
-from svgelements import Path, Matrix
+from svgelements import Path
 import requests
 import argparse
-import sys
+
 
 def main():
     parser = argparse.ArgumentParser()
